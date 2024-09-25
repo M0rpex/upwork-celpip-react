@@ -25,7 +25,7 @@ function App() {
 
 function AppWrapper() {
   return (
-      <Router>
+      <Router basename="/upwork-celpip-react">
           <App/>
       </Router>
   );
