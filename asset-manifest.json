@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/upwork-celpip-react/static/css/main.45880098.css",
-    "main.js": "/upwork-celpip-react/static/js/main.87b5299a.js",
+    "main.js": "/upwork-celpip-react/static/js/main.d8c8f486.js",
     "static/js/453.1c04f69c.chunk.js": "/upwork-celpip-react/static/js/453.1c04f69c.chunk.js",
     "static/media/FiraSans-Regular.woff": "/upwork-celpip-react/static/media/FiraSans-Regular.4521f697d8f4a168b04a.woff",
     "static/media/fa_cog.png": "/upwork-celpip-react/static/media/fa_cog.e3aa5fb2cd3bbd400974.png",
     "static/media/logo.png": "/upwork-celpip-react/static/media/logo.1b73aebfd022ee42fcf9.png",
     "index.html": "/upwork-celpip-react/index.html",
     "main.45880098.css.map": "/upwork-celpip-react/static/css/main.45880098.css.map",
-    "main.87b5299a.js.map": "/upwork-celpip-react/static/js/main.87b5299a.js.map",
+    "main.d8c8f486.js.map": "/upwork-celpip-react/static/js/main.d8c8f486.js.map",
     "453.1c04f69c.chunk.js.map": "/upwork-celpip-react/static/js/453.1c04f69c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45880098.css",
-    "static/js/main.87b5299a.js"
+    "static/js/main.d8c8f486.js"
   ]
 }
